@@ -5,7 +5,6 @@
 // MainController.java
 package Controller;
 
-import Model.DataManager;
 import Model.ImageManager;
 import Model.ProductManager;
 import Model.UserManager;

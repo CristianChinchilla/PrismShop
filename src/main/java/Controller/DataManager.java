@@ -4,7 +4,7 @@
  */
 // DataManager.java
 // DataManager.java
-package Model;
+package Controller;
 
 import java.io.IOException;
 import java.nio.file.Files;
